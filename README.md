@@ -1,4 +1,9 @@
 Weather
 =======
 
-** TODO: Add description **
+Simple elixir app to display the weather.
+
+Usage:
+```
+./weather "Ottawa, Ontario, Canada"
+```
